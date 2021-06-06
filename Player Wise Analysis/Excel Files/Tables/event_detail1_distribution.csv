@@ -1,0 +1,44 @@
+"","Event","Detail.1","n"
+"1","Dump In/Out","Lost",1637
+"2","Dump In/Out","Retained",226
+"3","Faceoff Win","Backhand",618
+"4","Faceoff Win","Feet",1
+"5","Faceoff Win","Forehand",227
+"6","Goal","Deflection",6
+"7","Goal","Fan",1
+"8","Goal","Slapshot",3
+"9","Goal","Snapshot",44
+"10","Goal","Wrap Around",2
+"11","Goal","Wristshot",20
+"12","Incomplete Play","Direct",2011
+"13","Incomplete Play","Indirect",1419
+"14","Penalty Taken","Charging",1
+"15","Penalty Taken","Cross-checking",7
+"16","Penalty Taken","Elbowing",1
+"17","Penalty Taken","Face-off violation",1
+"18","Penalty Taken","Game Misconduct",2
+"19","Penalty Taken","Goalkeeper interference",1
+"20","Penalty Taken","High-sticking",2
+"21","Penalty Taken","Holding",11
+"22","Penalty Taken","Holding the stick",1
+"23","Penalty Taken","Hooking",21
+"24","Penalty Taken","Illegal Check to the Head",2
+"25","Penalty Taken","Interference",29
+"26","Penalty Taken","Roughing",19
+"27","Penalty Taken","Slashing",6
+"28","Penalty Taken","Too many men on the ice",4
+"29","Penalty Taken","Tripping",34
+"30","Penalty Taken","Unsportsmanlike conduct",2
+"31","Play","Direct",4709
+"32","Play","Indirect",2540
+"33","Puck Recovery",NA,8214
+"34","Shot","Deflection",47
+"35","Shot","Fan",67
+"36","Shot","Slapshot",224
+"37","Shot","Snapshot",844
+"38","Shot","Wrap Around",29
+"39","Shot","Wristshot",698
+"40","Takeaway",NA,1207
+"41","Zone Entry","Carried",1267
+"42","Zone Entry","Dumped",578
+"43","Zone Entry","Played",99
