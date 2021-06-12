@@ -1,0 +1,13 @@
+"","Player","Matches","shot_type_Deflection","shot_type_Fan","shot_type_Slapshot","shot_type_Snapshot","shot_type_Wrap_Around","shot_type_Wrist_Shot","shot_dest_On_Net","shot_dest_Missed","shot_dest_Blocked","shot_traffic_TRUE","shot_traffic_FALSE","shot_one_timer_TRUE","shot_one_timer_FALSE","Unsuccessful_Shots","Goals","incompelete_play_Direct","incompelete_play_Indirect","complete_play_Direct","complete_play_Indirect","incompelete_play_Total","complete_play_Total","dumps_Lost","dumps_Retained","faceoffs_Won","faceoffs_Lost","Puck_Recovery","penalty_Taken","penalty_Given","Take_Away","zone_entry_Carried","zone_entry_Dumped","zone_entry_Played","zone_entry_Target","Mean_x","Mean_y","Position","Rating"
+"1","Amanda Leveille",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10,22,3,32,1,0,0,0,35,0,1,0,0,0,0,0,7.56338028169014,41.4929577464789,"Goalie",6.8027904480816
+"2","Lovisa Selander",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,17,1,23,0,0,0,0,22,0,0,0,0,0,0,0,5.6304347826087,42.8913043478261,"Goalie",3.16554869868528
+"3","Abbie Ives",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,13,3,13,0,0,0,0,22,0,0,0,0,0,0,0,4.15789473684211,39.2631578947368,"Goalie",3.10001341561578
+"4","Carly Jackson",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,37,2,49,1,0,0,0,55,0,0,3,0,0,0,0,6.08181818181818,41.0818181818182,"Goalie",7.2599051963152
+"5","Sonjia Shelly",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,4,2,12,0,0,0,0,15,0,0,0,0,0,0,0,12.6206896551724,43,"Goalie",5.23611483767106
+"6","Elaine Chuli",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,19,4,30,0,0,0,0,33,0,0,0,0,0,0,0,5.55223880597015,42.4328358208955,"Goalie",4.81110812986317
+"7","Victoria Hanson",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,12,1,0,0,0,12,0,0,1,0,0,0,0,9.61538461538461,40.0384615384615,"Goalie",3.01278955370721
+"8","Brooke Wolejko",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,1,10,0,0,0,0,11,0,0,0,0,0,0,0,4.95454545454545,40.4090909090909,"Goalie",8.62221625972637
+"9","Tera Hofmann",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,4,2,11,0,0,0,0,13,0,0,0,0,0,0,0,13.0384615384615,40.9615384615385,"Goalie",10
+"10","Samantha Ridgewell",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,10,0,0,0,0,10,0,0,0,0,0,0,0,6.45,44.15,"Goalie",8.14998658438428
+"11","Caty Flagg",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,42,"Goalie",0
+"12","Mariah Fujimagari",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,3,0,0,0,0,4,0,0,0,0,0,0,0,2.75,35,"Goalie",2.28333780520527
